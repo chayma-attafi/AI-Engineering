@@ -151,9 +151,6 @@ A collection of free resources to learn everything about AI/ML, LLMs and Agents.
 - [AI Agents in Action, Second Edition](https://www.manning.com/books/ai-agents-in-action-second-edition)
 - [LLMs in Production](https://www.manning.com/books/llms-in-production)
 
-## YouTube Channels
-- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 ## Other Resources
 - [Papers with Code](https://paperswithcode.com/)
